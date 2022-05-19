@@ -5,3 +5,4 @@ Summarize the available dataset for story generation
 - Writingprompts
 - PG-19 
 - STORIUM
+- roleplayerguild
